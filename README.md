@@ -12,8 +12,8 @@
 
 # Hey there, I'm Priyanshu! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([Email])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.Priyanshu.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-kumar-9bb362281/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.priyanshu.dev@gmail.com)
 
 </div>
 
@@ -59,7 +59,7 @@ I am a **Results-Driven Java Developer** specializing in building high-performan
 
 ### 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-for-the-badge&logo=linkedin&logoColor=white)]([Linkedin])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-kumar-9bb362281/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-for-the-badge&logo=gmail&logoColor=white)](mailto:info.priyanshu.dev@gmail.com)
 
 </div>
